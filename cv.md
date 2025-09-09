@@ -7,7 +7,7 @@ title: "CV"
 
 ### Education
 - Ph.D. in Physics – University of Texas at Arlington
-- M.S. in Physics - University of Texas at Arlington
+- M.S. in Physics – University of Texas at Arlington
 - B.S. in Physics – Georgia Institute of Technology
 
 ### Experience
