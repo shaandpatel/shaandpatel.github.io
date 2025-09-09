@@ -1,63 +1,133 @@
-:root {
-  --bg: #fdfcfb;
-  --primary: #cbd5e1;
-  --accent: #bfa2db;
-  --text: #1e293b;
-  --link: #5a5aa5;
-  --border: #dcdcdc;
-}
-
+/* Global theme */
 body {
   margin: 0;
-  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
-  background-color: var(--bg);
-  color: var(--text);
-  line-height: 1.7;
-  font-size: 1rem;
+  font-family: 'Inter', sans-serif;
+  background: #0b3d2e;   /* dark green background */
+  color: #f5f5f5;
+  line-height: 1.6;
 }
 
+/* Header / nav */
 header {
-  background-color: var(--primary);
-  padding: 2rem 1rem;
-  text-align: center;
-  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #06291f;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
 }
 
-header h1 {
-  margin: 0;
-  font-size: 2rem;
-  letter-spacing: 1px;
+header .logo {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #fff;
 }
 
-nav {
-  margin-top: 1rem;
-}
-
-nav a {
-  color: var(--link);
+header nav a {
+  margin-left: 1rem;
+  color: #eee;
   text-decoration: none;
-  margin: 0 1rem;
-  font-weight: 600;
+  font-weight: 500;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  transition: background 0.2s;
 }
 
-nav a:hover {
-  text-decoration: underline;
+header nav a.active,
+header nav a:hover {
+  background: #1f7a5c;
+  color: white;
 }
 
-.container {
-  max-width: 720px;
+/* Main container */
+.content {
+  max-width: 900px;
   margin: 2rem auto;
   padding: 0 1rem;
 }
 
-main {
-  padding-bottom: 2rem;
+/* Profile / About section */
+.profile {
+  text-align: center;
+  margin: 2rem 0;
 }
 
-footer {
-  text-align: center;
-  font-size: 0.9rem;
-  color: #666;
-  border-top: 1px solid var(--border);
-  padding: 1rem;
+.profile img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.profile h1 {
+  margin: 0.5rem 0;
+  font-size: 2rem;
+}
+
+.profile h2 {
+  margin: 0;
+  font-weight: 400;
+  color: #a7e5c4;
+}
+
+.profile .affiliation {
+  font-style: italic;
+  color: #ccc;
+}
+
+.profile .icons {
+  margin: 1rem 0;
+}
+
+.profile .icons a {
+  margin: 0 0.5rem;
+  color: #fff;
+  font-size: 1.2rem;
+  transition: color 0.2s;
+}
+
+.profile .icons a:hover {
+  color: #29a37d;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background: #1f7a5c;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.btn:hover {
+  background: #29a37d;
+}
+
+/* Info boxes (like Interests / Education) */
+.columns {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.columns div {
+  background: #094d37;
+  padding: 1.5rem;
+  border-radius: 12px;
+  flex: 1;
+  min-width: 260px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}
+
+.columns h3 {
+  margin-top: 0;
+  color: #a7e5c4;
 }
