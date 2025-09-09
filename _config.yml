@@ -1,8 +1,10 @@
-title: "Shaan Patel"
-description: "Personal Website"
+title: "Shaan D. Patel"
+description: "Astrophysics Researcher"
+baseurl: "" # leave empty for user.github.io repo
+url: "shaandpatel.github.io"     # your GitHub Pages URL
 markdown: kramdown
 
-# Navbar
+# Navbar items
 nav:
   - name: "Home"
     link: /
