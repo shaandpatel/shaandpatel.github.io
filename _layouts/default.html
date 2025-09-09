@@ -3,30 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 </head>
 <body>
   <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <div class="logo">{{ site.title }}</div>
     <nav>
-      <a href="{{ '/about' | relative_url }}">About</a>
-      <a href="{{ '/cv' | relative_url }}">CV</a>
-      <a href="{{ '/projects' | relative_url }}">Projects</a>
-      <a href="{{ '/publications' | relative_url }}">Publications</a>
-      <a href="{{ '/news' | relative_url }}">News</a>
-      <a href="{{ '/contact' | relative_url }}">Contact</a>
+      {% for item in site.nav %}
+        <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active"{% endif %}>
+          {{ item.name }}
+        </a>
+      {% endfor %}
     </nav>
   </header>
 
-  <div class="container">
-    <main>
-      {{ content }}
-    </main>
-  </div>
-
-  <footer>
-    &copy; {{ site.time | date: '%Y' }} {{ site.title }}
-  </footer>
+  <main class="content">
+    {{ content }}
+  </main>
 </body>
 </html>
