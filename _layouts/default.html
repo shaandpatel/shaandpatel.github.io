@@ -3,9 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  {% seo %}
 </head>
 <body>
   <header>
@@ -20,12 +19,14 @@
     </nav>
   </header>
 
-  <main>
-    {{ content }}
-  </main>
+  <div class="container">
+    <main>
+      {{ content }}
+    </main>
+  </div>
 
   <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} Shaan Patel</p>
+    &copy; {{ site.time | date: '%Y' }} {{ site.title }}
   </footer>
 </body>
 </html>
