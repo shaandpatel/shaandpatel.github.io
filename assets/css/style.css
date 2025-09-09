@@ -1,0 +1,49 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #0b0e2c;
+  color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #1a1c3b;
+  padding: 2rem;
+  text-align: center;
+  border-bottom: 2px solid #444;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #f0f0f0;
+}
+
+nav {
+  margin-top: 1rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #80c1ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.7;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  color: #777;
+  border-top: 1px solid #444;
+}
