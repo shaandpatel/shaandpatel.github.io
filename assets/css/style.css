@@ -1,133 +1,160 @@
-/* Global theme */
+/* Base */
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
-  background: #0b3d2e;   /* dark green background */
-  color: #f5f5f5;
+  background: #f9fafb;
+  color: #222;
   line-height: 1.6;
 }
 
-/* Header / nav */
-header {
+/* Navbar */
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #06291f;
   padding: 1rem 2rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  position: sticky;
+  top: 0;
 }
 
-header .logo {
-  font-size: 1.3rem;
-  font-weight: bold;
-  color: #fff;
+.navbar .logo {
+  font-weight: 700;
+  font-size: 1.2rem;
 }
 
-header nav a {
+.navbar nav a {
   margin-left: 1rem;
-  color: #eee;
   text-decoration: none;
+  color: #333;
   font-weight: 500;
   padding: 0.4rem 0.8rem;
   border-radius: 6px;
-  transition: background 0.2s;
+  transition: 0.2s;
 }
 
-header nav a.active,
-header nav a:hover {
-  background: #1f7a5c;
+.navbar nav a.active,
+.navbar nav a:hover {
+  background: #2563eb;
   color: white;
 }
 
-/* Main container */
-.content {
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-}
-
-/* Profile / About section */
-.profile {
+/* Hero section */
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
   text-align: center;
-  margin: 2rem 0;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: white;
+  border-radius: 0 0 2rem 2rem;
 }
 
-.profile img {
+.hero-pic {
   width: 160px;
   height: 160px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
-.profile h1 {
-  margin: 0.5rem 0;
+.hero h1 {
   font-size: 2rem;
+  margin: 0.5rem 0;
 }
 
-.profile h2 {
-  margin: 0;
+.hero h2 {
   font-weight: 400;
-  color: #a7e5c4;
-}
-
-.profile .affiliation {
-  font-style: italic;
-  color: #ccc;
-}
-
-.profile .icons {
-  margin: 1rem 0;
-}
-
-.profile .icons a {
-  margin: 0 0.5rem;
-  color: #fff;
   font-size: 1.2rem;
-  transition: color 0.2s;
+  margin: 0;
+  opacity: 0.9;
 }
 
-.profile .icons a:hover {
-  color: #29a37d;
+.hero p {
+  max-width: 600px;
+  margin: 1rem auto;
 }
 
-/* Buttons */
-.btn {
-  display: inline-block;
+.hero-links {
   margin-top: 1rem;
+}
+
+.btn, .btn-outline {
+  display: inline-block;
   padding: 0.6rem 1.2rem;
-  background: #1f7a5c;
-  color: white;
+  margin: 0.3rem;
   border-radius: 8px;
   text-decoration: none;
-  font-weight: bold;
-  transition: background 0.2s;
+  font-weight: 600;
 }
 
-.btn:hover {
-  background: #29a37d;
+.btn {
+  background: white;
+  color: #1d4ed8;
 }
 
-/* Info boxes (like Interests / Education) */
-.columns {
-  display: flex;
-  justify-content: space-around;
-  gap: 2rem;
-  flex-wrap: wrap;
-  margin-top: 2rem;
+.btn-outline {
+  border: 2px solid white;
+  color: white;
 }
 
-.columns div {
-  background: #094d37;
+.socials a {
+  margin: 0 0.4rem;
+  color: white;
+  font-size: 1.4rem;
+  transition: 0.2s;
+}
+
+.socials a:hover {
+  color: #facc15;
+}
+
+/* Quick links section */
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  padding: 3rem 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.quick-links div {
+  background: white;
   padding: 1.5rem;
-  border-radius: 12px;
-  flex: 1;
-  min-width: 260px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  border-radius: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-.columns h3 {
+.quick-links h3 {
   margin-top: 0;
-  color: #a7e5c4;
+  color: #1d4ed8;
+}
+
+/* Page layout */
+.page {
+  padding: 2rem;
+  background: white;
+  margin: 2rem auto;
+  border-radius: 1rem;
+  max-width: 900px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.page h1 {
+  margin-top: 0;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background: #f3f4f6;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #555;
 }
