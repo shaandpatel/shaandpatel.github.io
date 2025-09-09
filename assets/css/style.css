@@ -136,6 +136,7 @@ body {
 }
 
 /* Page layout */
+/* Page container */
 .page {
   max-width: 900px;
   margin: 2rem auto;
@@ -143,7 +144,29 @@ body {
   padding: 2rem;
   border-radius: 1rem;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: center; /* ✅ keeps things centered like the home hero */
 }
+
+/* Page header */
+.page-header {
+  border-bottom: 2px solid #e2e8f0;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.page-header h1 {
+  font-size: 2rem;
+  color: #1d4ed8;
+  text-align: center;
+}
+
+/* Page body */
+.page-body {
+  max-width: 700px;     /* ✅ narrower for readability */
+  margin: 0 auto;       /* ✅ centers the content */
+  text-align: left;     /* ✅ body text aligned left for readability */
+}
+
 
 /* Footer */
 .footer {
