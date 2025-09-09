@@ -182,6 +182,13 @@ body {
   text-align: left;
 }
 
+.content-wrapper {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+  box-sizing: border-box; /* ensure padding is inside width */
+}
+
 
 /* Footer */
 .footer {
