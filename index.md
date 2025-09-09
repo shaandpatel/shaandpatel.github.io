@@ -4,14 +4,14 @@ title: "Home"
 ---
 
 <section class="hero">
-  <img src="/assets/profile.jpg" alt="Profile picture" class="hero-pic">
-  <div class="hero-text">
+  <div class="hero-inner">
+    <img src="/assets/img/profile.jpg" alt="Profile" class="hero-pic">
     <h1>Your Name</h1>
-    <h2>Astrophysics PhD Candidate @ University</h2>
-    <p>I study exoplanets, orbital dynamics, and habitability around M dwarfs.</p>
-    <div class="hero-links">
-      <a href="/assets/cv.pdf" class="btn">Download CV</a>
-      <a href="/contact" class="btn-outline">Contact Me</a>
+    <h2>PhD Candidate in Astrophysics</h2>
+    <p>Exploring the stability of exomoons around M-dwarfs through simulations and theory.</p>
+    <div class="hero-buttons">
+      <a href="/assets/img/cv.pdf" class="btn">Download CV</a>
+      <a href="/contact" class="btn-outline">Contact</a>
     </div>
     <div class="socials">
       <a href="#"><i class="fab fa-github"></i></a>
@@ -21,20 +21,20 @@ title: "Home"
   </div>
 </section>
 
-<section class="quick-links">
-  <div>
-    <h3>Research</h3>
-    <p>Explore my latest work in exomoon stability and orbital mechanics.</p>
-    <a href="/publications">View Publications →</a>
-  </div>
+<section class="highlights">
   <div>
     <h3>Projects</h3>
-    <p>From N-body simulations to machine learning for astrophysics.</p>
-    <a href="/projects">See Projects →</a>
+    <p>Dynamic modeling of star–planet–moon systems.</p>
+    <a href="/projects">Explore →</a>
+  </div>
+  <div>
+    <h3>Publications</h3>
+    <p>Peer-reviewed papers on orbital mechanics and habitability.</p>
+    <a href="/publications">View →</a>
   </div>
   <div>
     <h3>News</h3>
-    <p>Updates, awards, and upcoming talks.</p>
-    <a href="/news">Latest News →</a>
+    <p>Recent updates, talks, and fellowships.</p>
+    <a href="/news">See more →</a>
   </div>
 </section>
