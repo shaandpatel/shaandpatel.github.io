@@ -1,0 +1,10 @@
+<header class="navbar">
+  <div class="logo">{{ site.title }}</div>
+  <nav>
+    {% for item in site.nav %}
+      <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>
+</header>
