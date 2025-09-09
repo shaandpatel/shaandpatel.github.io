@@ -3,7 +3,7 @@ layout: default
 title: "CV"
 ---
 
-📄 [Download Full CV (PDF)](assets/cv.pdf)
+[Download Full CV (PDF)](assets/Resume_2025.pdf)
 
 ### Education
 - Ph.D. in Physics – University of Texas at Arlington
