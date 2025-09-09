@@ -1,0 +1,11 @@
+title: "Shaan Patel"
+description: "Personal website of Shaan Patel"
+baseurl: "" # Use "" for GitHub Pages if it's the root
+url: "https://shaandpatel.github.io"
+
+markdown: kramdown
+theme: null
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
