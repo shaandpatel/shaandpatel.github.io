@@ -2,7 +2,7 @@
 layout: default
 title: "Publications"
 ---
-##### First-Author Publications
+### <u>First-Author Publications<u>
 #### [Can Moons Exist around the Habitable-zone Planet K2-18b?](https://academic.oup.com/mnrasl/article/542/1/L144/8205638)
 *MNRAS Letters*, 2025  
 > Ran 2,400 N-body simulations showing exomoons around K2-18b would be ejected within ~10 Myr due to rapid tidal migration.
@@ -15,12 +15,12 @@ title: "Publications"
 *Astrophysical Journal Supplement Series*, 2024  
 > Investigated known F-type systems with planets to find those that are in the habitable zone.
 
-##### First-Author Research Notes
+### <u>First-Author Research Notes<u>
 #### [Apparent Diameters of F- to M-type Main-sequence Stars as Viewed from Habitable Zone Planets](https://iopscience.iop.org/article/10.3847/2515-5172/adb036)
 *RNAAS*, 2025  
 > Investigated the apparent sizes of host stars from different planet locations
 
-##### Co-Author Publications
+### <u>Co-Author Publications<u>
 #### [On the age and metallicity of planet-hosting triple star systems](https://link.springer.com/article/10.1007/s10509-024-04351-1)
 *Astrophysics and Space Science*, 2024  
 > Obtained data from the literature on known planet-hosting triple stellar systems
