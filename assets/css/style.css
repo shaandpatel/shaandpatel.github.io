@@ -210,6 +210,26 @@ ul ul {
   list-style-position: outside !important;
 }
 
+/* FINAL LIST FIX */
+.page-content ul,
+.page-content ol {
+  list-style-position: outside !important;
+  list-style-type: disc !important;
+  padding-left: 2rem !important;
+  margin-left: 0 !important;
+  text-align: left !important;
+}
+
+.page-content ul ul,
+.page-content ol ul,
+.page-content ul ol,
+.page-content ol ol {
+  list-style-type: circle !important;
+  padding-left: 2rem !important;
+  margin-left: 0 !important;
+}
+
+
 
 
 
