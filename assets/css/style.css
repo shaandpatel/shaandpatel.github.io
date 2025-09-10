@@ -190,12 +190,17 @@ body {
 }
 
 ul {
-  padding-left: 1.5em; /* controls base indent */
+  padding-left: 1.5em;
+  margin-left: 1em; 
+  list-style-type: disc;
 }
 
 ul ul {
-  padding-left: 1.5em; /* nested list indent */
+  padding-left: 1.5em;
+  margin-left: 1em; 
+  list-style-type: circle; /* or square if you prefer */
 }
+
 
 
 
