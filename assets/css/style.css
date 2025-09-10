@@ -189,6 +189,15 @@ body {
   box-sizing: border-box; /* ensure padding is inside width */
 }
 
+ul {
+  padding-left: 1.5em; /* controls base indent */
+}
+
+ul ul {
+  padding-left: 1.5em; /* nested list indent */
+}
+
+
 
 /* Footer */
 .footer {
