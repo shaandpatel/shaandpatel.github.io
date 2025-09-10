@@ -3,7 +3,7 @@ layout: default
 title: "News & Media"
 ---
 
-<img src="/assets/press_release.jpeg" alt="Press Release" style="width:300px;">
+<img src="/assets/press_release.jpeg" alt="Press Release" style="width:600px;">
 
 
 <p>&nbsp;</p>
