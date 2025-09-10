@@ -4,6 +4,10 @@ baseurl: "" # leave empty for user.github.io repo
 url: "shaandpatel.github.io"     # your GitHub Pages URL
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  hard_wrap: true
+
 # Navbar items
 nav:
   - name: "Home"
