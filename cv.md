@@ -3,7 +3,7 @@ layout: default
 title: "CV"
 ---
 
-[Download Full CV (PDF)](assets/Resume_2025.pdf)
+[Download Full CV (PDF)](assets/Resume_2025b.pdf)
 
 <p>&nbsp;</p>
 
