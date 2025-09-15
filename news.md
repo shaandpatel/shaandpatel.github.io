@@ -8,7 +8,7 @@ title: "News & Media"
 
 <p>&nbsp;</p>
 
-- Featured in *Universe Today* twice for two of my publications (2024)
+- My work was featured twice in *Universe Today* (2024)
   - [F-Type Story](https://www.universetoday.com/articles/could-stars-hotter-than-the-sun-still-support-life)
   - [Triple Star Systems Story](https://www.universetoday.com/articles/we-dont-see-many-planets-in-old-triple-star-systems)
     
