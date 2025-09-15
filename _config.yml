@@ -14,8 +14,8 @@ nav:
     link: /
   - name: "About"
     link: /about
-  - name: "CV"
-    link: /cv
+  - name: "Resume"
+    link: /resume
   - name: "Projects"
     link: /projects
   - name: "Publications"
