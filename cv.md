@@ -26,7 +26,7 @@ title: "CV"
 <p>&nbsp;</p>
 
 ### Programming Languages  
-Python, LaTeX  
+Python, SQL, LaTeX  
 
 ### Frameworks  
 PyTorch, Scikit-learn, NumPy, pandas, matplotlib, seaborn, Linux Command Line
