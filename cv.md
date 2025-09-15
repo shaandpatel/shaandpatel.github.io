@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "CV"
+title: "Resume"
 ---
 
-[Download Full CV (PDF)](assets/Resume_2025b.pdf)
+[Download Full Resume (PDF)](assets/Resume_2025b_1page.pdf)
 
 <p>&nbsp;</p>
 
