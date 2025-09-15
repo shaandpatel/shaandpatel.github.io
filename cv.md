@@ -25,5 +25,9 @@ title: "CV"
 
 <p>&nbsp;</p>
 
-### Skills
-Python, Linux Command Line, Machine Learning Techniques, PyTorch, Scikit-learn, NumPy, pandas, matplotlib, LaTeX
+### Programming Languages  
+Python, LaTeX  
+
+### Frameworks  
+PyTorch, Scikit-learn, NumPy, pandas, matplotlib, seaborn, Linux Command Line
+
