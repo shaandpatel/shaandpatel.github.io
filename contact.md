@@ -5,8 +5,8 @@ title: "Contact"
 
 You can reach me at:
 
-[shaanpatel98@gmail.com](mailto:shaanpatel98@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/shaan-d-patel/)
+[shaanpatel98@gmail.com](mailto:shaanpatel98@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/shaan-d-patel/)  
 
 <p>&nbsp;</p>
 Other Links:
