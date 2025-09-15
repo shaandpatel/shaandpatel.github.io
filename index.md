@@ -10,7 +10,7 @@ title: "Home"
     <h2>PhD Candidate in Physics</h2>
     <p>Exploring the dynamics of exoplanetary systems, including exomoons and submoons through simulations and theory.</p>
     <div class="hero-buttons">
-      <a href="/assets/Resume_2025.pdf" class="btn">Download CV</a>
+      <a href="/assets/Resume_2025b_1page.pdf" class="btn">Download Resume</a>
       <a href="/contact" class="btn-outline">Contact</a>
     </div>
     <div class="socials">
