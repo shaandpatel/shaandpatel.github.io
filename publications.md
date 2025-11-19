@@ -3,6 +3,12 @@ layout: default
 title: "Publications"
 ---
 ### <u>First-Author Publications<u>
+#### [Tidally Torn: Why the Most Common Stars May Lack Large, Habitable-Zone Moons](https://arxiv.org/pdf/2511.03625v1)
+*Astronomical Journal*, 2025  
+- Explored large moons around M-dwarf HZ planets and found they become unstable on short timescales.
+
+<p>&nbsp;</p>
+  
 #### [Can Moons Exist around the Habitable-zone Planet K2-18b?](https://academic.oup.com/mnrasl/article/542/1/L144/8205638)
 *MNRAS Letters*, 2025  
 - Ran 2,400 N-body simulations showing exomoons around K2-18b would be ejected within ~10 Myr due to rapid tidal migration.
