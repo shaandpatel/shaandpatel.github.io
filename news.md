@@ -14,7 +14,8 @@ title: "News & Media"
     
 <p>&nbsp;</p>
 
-- Press release for one of my publications (2024)
+- Press releases for my publications (2025, 2024)
+  - [M-Dwarf Press Release](https://www.uta.edu/academics/schools-colleges/science/news/2025/11/18/shaan-patel)
   - [F-Type Press Release](https://www.uta.edu/academics/schools-colleges/science/news/2024/09/13/uta-physicists-publish-study-on-habitability-of-f-type-star-systems)
 
 <p>&nbsp;</p>
