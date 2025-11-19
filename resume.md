@@ -25,9 +25,10 @@ title: "Resume"
 
 <p>&nbsp;</p>
 
-### Programming Languages  
-Python, SQL, LaTeX  
+### Languages  
+Python, SQL, Excel, HTML/CSS  
 
-### Frameworks  
-PyTorch, Scikit-learn, NumPy, pandas, matplotlib, seaborn, Linux Command Line
+### Frameworks/Tools  
+PyTorch, Scikit-learn, NumPy, pandas, SciPy, matplotlib, seaborn, Linux Command Line, Git/Github, Jupyter, LaTeX
+
 
