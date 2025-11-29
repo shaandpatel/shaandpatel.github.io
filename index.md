@@ -8,7 +8,7 @@ title: "Home"
     <img src="/assets/profile.jpg" alt="Profile" class="hero-pic">
     <h1>Shaan D. Patel</h1>
     <h2>PhD Candidate in Physics</h2>
-    <p>Exploring the dynamics of exoplanetary systems, including exomoons and submoons through simulations and theory.</p>
+    <p>Leveraging a physics problem-solving mindset to build meaningful, data-driven solutions.</p>
     <div class="hero-buttons">
       <a href="/assets/Resume_2025b_1page.pdf" class="btn">Download Resume</a>
       <a href="/contact" class="btn-outline">Contact</a>
