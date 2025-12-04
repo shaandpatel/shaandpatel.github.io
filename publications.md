@@ -3,7 +3,7 @@ layout: default
 title: "Publications"
 ---
 ### <u>First-Author Publications<u>
-#### [Tidally Torn: Why the Most Common Stars May Lack Large, Habitable-Zone Moons](https://arxiv.org/pdf/2511.03625v1)
+#### [Tidally Torn: Why the Most Common Stars May Lack Large, Habitable-Zone Moons](https://iopscience.iop.org/article/10.3847/1538-3881/ae1b8c)
 *Astronomical Journal*, 2025  
 - Explored large moons around M-dwarf HZ planets and found they become unstable on short timescales.
 
