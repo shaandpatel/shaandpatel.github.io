@@ -7,7 +7,7 @@ title: "News & Media"
 
 <p>&nbsp;</p>
 
-- Spotlighted in an article for my achievements as a top graduate
+- Spotlighted in an article for my achievements as a top graduate (2025)
   - [UTA Story](https://www.uta.edu/news/news-releases/2025/12/09/uta-physics-grad-sets-sights-on-the-stars) 
 
 <p>&nbsp;</p>
