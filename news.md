@@ -3,8 +3,12 @@ layout: default
 title: "News & Media"
 ---
 
-<img src="/assets/press_release.jpeg" alt="Press Release" style="width:600px;">
+<img src="/assets/grad_story_thumbnail.png" alt="UTA Story" style="width:600px;">
 
+<p>&nbsp;</p>
+
+- Spotlighted in an article for my achievements as a top graduate
+  - [UTA Story](https://www.uta.edu/news/news-releases/2025/12/09/uta-physics-grad-sets-sights-on-the-stars) 
 
 <p>&nbsp;</p>
 
