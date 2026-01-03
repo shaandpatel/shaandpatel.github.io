@@ -6,8 +6,8 @@ title: "Home"
 <section class="hero">
   <div class="hero-inner">
     <img src="/assets/profile.jpg" alt="Profile" class="hero-pic">
-    <h1>Shaan D. Patel, PhD in Physics</h1>
-    <!-- <h2>PhD in Physics</h2> -->
+    <h1>Shaan D. Patel</h1>
+    <h2>PhD in Physics</h2>
     <p>Leveraging a physics problem-solving mindset to build meaningful, data-driven solutions.</p>
     <div class="hero-buttons">
       <a href="/assets/Resume_2025b_1page.pdf" class="btn">Download Resume</a>
