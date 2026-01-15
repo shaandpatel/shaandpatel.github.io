@@ -3,7 +3,7 @@ layout: default
 title: "Projects"
 ---
 
-![AuroraNet Frontend](assets/frontend.png)
+<img src="/assets/frontend.png" alt="AuroraNet Frontend" style="width:600px;">
 
 #### [AuroraNet](https://github.com/shaandpatel/AuroraNet)
 Predicting the likelihood of **aurora sightings** using machine learning on geomagnetic and solar data.
