@@ -25,10 +25,14 @@ title: "Resume"
 
 <p>&nbsp;</p>
 
-### Languages  
-Python, SQL, Excel, HTML/CSS  
+### Languages
+Python, SQL, Bash
 
-### Frameworks/Tools  
-PyTorch, Scikit-learn, NumPy, pandas, SciPy, matplotlib, seaborn, Linux Command Line, Git/Github, Jupyter, LaTeX
+### Data Science & Visualization
+NumPy, pandas, SciPy, matplotlib, seaborn, Jupyter
 
+### Machine Learning
+PyTorch, Scikit-learn, Weights & Biases (W&B)
 
+### Deployment & Engineering
+Docker, FastAPI, Streamlit, Git, Linux, PyTest
