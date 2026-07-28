@@ -3,7 +3,7 @@ layout: default
 title: "Resume"
 ---
 
-[Download Full Resume (PDF)](assets/Resume_2025b_1page.pdf)
+[Download Full Resume (PDF)](assets/Resume_ShaanDPatel.pdf)
 
 <p>&nbsp;</p>
 
