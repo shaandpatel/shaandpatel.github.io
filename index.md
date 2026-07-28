@@ -10,7 +10,7 @@ title: "Home"
     <h2>PhD in Physics</h2>
     <p>Leveraging a physics problem-solving mindset to build meaningful, data-driven solutions.</p>
     <div class="hero-buttons">
-      <a href="/assets/Resume_2025b_1page.pdf" class="btn">Download Resume</a>
+      <a href="/assets/Resume_ShaanDPatel.pdf" class="btn">Download Resume</a>
       <a href="/contact" class="btn-outline">Contact</a>
     </div>
     <div class="socials">
