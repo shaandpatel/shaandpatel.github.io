@@ -12,7 +12,7 @@ End-to-end LSTM pipeline for **real-time aurora forecasting**, from raw space we
 
 #### [SolarWindLakehouse](https://github.com/shaandpatel/solar-wind-lakehouse)
 
-End-to-end Databricks and PySpark Medallion Lakehouse that processes solar wind data through automated data quality routing and runs MLflow-tracked KMeans anomaly detection.
+End-to-end Databricks and **PySpark Medallion Lakehouse** that processes **solar wind data** through automated data quality routing and runs MLflow-tracked KMeans anomaly detection.
 
 <p>&nbsp;</p>
 
