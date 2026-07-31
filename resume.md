@@ -25,14 +25,15 @@ title: "Resume"
 
 <p>&nbsp;</p>
 
-### Languages
-Python, SQL, Bash
+### Languages & System
+Python, SQL, Bash, Git, Linux, PyTest
 
-### Data Science & Visualization
-NumPy, pandas, SciPy, matplotlib, seaborn, Jupyter
+### Data Engineering & Cloud
+Databricks, Apache Spark/PySpark, Delta Lake, Unity Catalog, Medallion Architecture
 
-### Machine Learning
-PyTorch, Scikit-learn, Weights & Biases (W&B)
+### Machine Learning & MLOps
+PyTorch, Scikit-learn, MLflow, Weights & Biases (W&B)
 
-### Deployment & Engineering
-Docker, FastAPI, Streamlit, Git, Linux, PyTest
+### Data Science & Deployment
+pandas, NumPy, SciPy, FastAPI, Streamlit, Docker, matplotlib, seaborn
+
