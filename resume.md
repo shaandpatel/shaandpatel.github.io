@@ -25,15 +25,18 @@ title: "Resume"
 
 <p>&nbsp;</p>
 
-### Languages & System
+### Languages & Systems
 Python, SQL, Bash, Git, Linux, PyTest
 
 ### Data Engineering & Cloud
 Databricks, Apache Spark/PySpark, Delta Lake, Unity Catalog, Medallion Architecture
 
 ### Machine Learning & MLOps
-PyTorch, Scikit-learn, MLflow, Weights & Biases (W&B)
+PyTorch, Scikit-learn, MLflow, Weights & Biases (W&B), Model Validation
 
-### Data Science & Deployment
-pandas, NumPy, SciPy, FastAPI, Streamlit, Docker, matplotlib, seaborn
+### Data Science & Analytics
+A/B Testing, Hypothesis Testing, pandas, NumPy, SciPy, matplotlib, seaborn
+
+### Deployment
+FastAPI, Streamlit, Docker
 
