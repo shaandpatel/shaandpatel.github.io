@@ -40,3 +40,5 @@ A/B Testing, Hypothesis Testing, pandas, NumPy, SciPy, matplotlib, seaborn
 ### Deployment
 FastAPI, Streamlit, Docker
 
+### Generative AI & NLP
+Retrieval-Augmented Generation (RAG), LLMs, Vector Databases, Semantic Search
