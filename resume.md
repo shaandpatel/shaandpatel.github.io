@@ -26,19 +26,19 @@ title: "Resume"
 <p>&nbsp;</p>
 
 ### Languages & Systems
-Python, SQL, Bash, Git, Linux, PyTest
+Python, SQL, Bash, Git, Linux, PyTest, Pydantic
 
 ### Data Engineering & Cloud
-Databricks, Apache Spark/PySpark, Delta Lake, Unity Catalog, Medallion Architecture
+Databricks, Apache Spark/PySpark, Delta Lake, Unity Catalog
+
+### Generative AI & Information Retrieval
+Retrieval-Augmented Generation (RAG), Local LLMs (Ollama), Hybrid Search (BM25 + Dense Vector Embeddings), Cross-Encoder Reranking, Sentence-Transformers
 
 ### Machine Learning & MLOps
-PyTorch, Scikit-learn, MLflow, Weights & Biases (W&B), Model Validation
+PyTorch, Scikit-learn, MLflow, Weights & Biases (W&B), Time Series
 
 ### Data Science & Analytics
-A/B Testing, Hypothesis Testing, pandas, NumPy, SciPy, matplotlib, seaborn
+A/B Testing, Hypothesis Testing, Statistical Modeling, pandas, NumPy, SciPy, matplotlib, seaborn
 
-### Deployment
-FastAPI, Streamlit, Docker
-
-### Generative AI & NLP
-Retrieval-Augmented Generation (RAG), LLMs, Vector Databases, Semantic Search
+### Deployment & Backend
+FastAPI, Streamlit, Docker, REST APIs
