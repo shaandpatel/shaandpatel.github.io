@@ -3,7 +3,12 @@ layout: default
 title: "Projects"
 ---
 
-<img src="/assets/frontend.png" alt="AuroraNet Frontend" style="width:600px;">
+<!-- <img src="/assets/frontend.png" alt="AuroraNet Frontend" style="width:600px;"> -->
+
+<p float="left">
+  <img src="/assets/frontend.png" alt="AuroraNet Frontend" width="49%" />
+  <img src="assets/ledgerlens_frontend.png" alt="LedgerLens Frontend" width="49%" />
+</p>
 
 #### [AuroraNet](https://github.com/shaandpatel/AuroraNet)
 End-to-end LSTM pipeline for **real-time aurora forecasting**, from raw space weather data ingestion to interactive dashboard deployment.
