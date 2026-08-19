@@ -6,8 +6,8 @@ title: "Projects"
 <!-- <img src="/assets/frontend.png" alt="AuroraNet Frontend" style="width:600px;"> -->
 
 <p float="left">
-  <img src="/assets/frontend.png" alt="AuroraNet Frontend" width="49%" />
-  <img src="assets/ledgerlens_frontend.png" alt="LedgerLens Frontend" width="49%" />
+  <img src="/assets/frontend.png" alt="AuroraNet Frontend" width="55%" />
+  <img src="assets/ledgerlens_frontend.png" alt="LedgerLens Frontend" width="55%" />
 </p>
 
 #### [AuroraNet](https://github.com/shaandpatel/AuroraNet)
