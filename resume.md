@@ -28,8 +28,8 @@ title: "Resume"
 ### Languages & Systems
 Python, SQL, Bash, Git, Linux, PyTest, Pydantic
 
-### Data Engineering & Cloud
-Databricks, Apache Spark/PySpark, Delta Lake, Unity Catalog
+### Cloud & Data Engineering
+AWS, Databricks, Apache Spark/PySpark, Delta Lake, Unity Catalog
 
 ### Generative AI & Information Retrieval
 Retrieval-Augmented Generation (RAG), Local LLMs (Ollama), Hybrid Search (BM25 + Dense Vector Embeddings), Cross-Encoder Reranking, Sentence-Transformers
